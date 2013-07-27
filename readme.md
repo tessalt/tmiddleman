@@ -1,0 +1,2 @@
+Middleman Template
+======
